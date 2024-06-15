@@ -1,0 +1,8 @@
+C:\Users\hp\Downloads\goa2024_2\bin\exam.dll.config
+C:\Users\hp\Downloads\goa2024_2\bin\exam.dll
+C:\Users\hp\Downloads\goa2024_2\bin\exam.pdb
+C:\Users\hp\Downloads\goa2024_2\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\goa2024_2\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\goa2024_2\obj\Debug\exam.csproj.Up2Date
+C:\Users\hp\Downloads\goa2024_2\obj\Debug\exam.dll
+C:\Users\hp\Downloads\goa2024_2\obj\Debug\exam.pdb
